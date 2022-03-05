@@ -1,2 +1,5 @@
-# class_material
-including class materials
+# CS534
+
+Some useful material:
+Linear regression <线性回归>: https://zhuanlan.zhihu.com/p/72513104
+
