@@ -6,6 +6,8 @@ course website: https://cs533.ekstrandom.net/f21/
 
 **Some useful material:**
 
+PCA: https://zhuanlan.zhihu.com/p/77151308
+
 Linear regression < 线性回归 > : https://zhuanlan.zhihu.com/p/72513104
 
 Logistic regression < 逻辑回归 > + Regularzation < 正则化 >: 
