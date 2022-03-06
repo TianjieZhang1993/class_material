@@ -1,4 +1,8 @@
-## CS534
+## CS 533: Intro to data science
+
+course website: https://cs533.ekstrandom.net/f21/
+
+## CS 534: Machine Learning
 
 **Some useful material:**
 
