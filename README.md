@@ -16,7 +16,8 @@ Logistic regression < 逻辑回归 > + Regularzation < 正则化 >:
 
 - Scikit-learn: https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 
-- 手写LR: https://zhuanlan.zhihu.com/p/133228366
+- 手写LR: 1. https://zhuanlan.zhihu.com/p/133228366 2. https://zhuanlan.zhihu.com/p/41132059
+
 
 K-fold cross validation:
 - conception : https://zhuanlan.zhihu.com/p/24825503
