@@ -22,3 +22,6 @@ Logistic regression < 逻辑回归 > + Regularzation < 正则化 >:
 K-fold cross validation:
 - conception : https://zhuanlan.zhihu.com/p/24825503
 - Scikit-learn: https://scikit-learn.org/stable/modules/cross_validation.html#k-fold
+
+SVD：
+- https://blog.csdn.net/lomodays207/article/details/88687126
