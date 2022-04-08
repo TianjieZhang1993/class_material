@@ -25,3 +25,7 @@ K-fold cross validation:
 
 SVD：
 - https://blog.csdn.net/lomodays207/article/details/88687126
+
+Kernel: 
+
+- conception: https://blog.csdn.net/qq_39521554/article/details/80605178
