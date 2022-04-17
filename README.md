@@ -34,3 +34,8 @@ Kernel:
 GAN:
 
 - use you own dataset: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
+
+
+Lab computer set up
+---
+
