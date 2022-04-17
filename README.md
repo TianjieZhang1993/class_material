@@ -30,3 +30,7 @@ SVM：
 Kernel: 
 
 - conception: https://blog.csdn.net/qq_39521554/article/details/80605178
+
+GAN:
+
+- use you own dataset: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
