@@ -33,7 +33,9 @@ Kernel:
 
 GAN:
 
-- use you own dataset: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
+- use you own dataset: 
+- tf1: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
+- pytorch: https://github.com/pytorch/examples/tree/main/dcgan
 
 
 Lab computer set up
