@@ -37,12 +37,3 @@ GAN:
 - tf1: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
 - pytorch: https://github.com/pytorch/examples/tree/main/dcgan
 
-
-Lab computer set up
----
-
-显卡驱动+cuda+cudnn安装： https://zhuanlan.zhihu.com/p/77874628
-
-tensorflow-gpu安装：https://zhuanlan.zhihu.com/p/157473379
-
-注意cuda，cudnn以及python版本相匹配：https://tensorflow.google.cn/install/source_windows
