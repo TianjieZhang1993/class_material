@@ -37,3 +37,7 @@ GAN:
 - tf1: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
 - pytorch: https://github.com/pytorch/examples/tree/main/dcgan
 
+集成学习：
+
+Adaboost: 
+原理+scikitlearn例子：https://www.cnblogs.com/jpcflyer/p/11268859.html
