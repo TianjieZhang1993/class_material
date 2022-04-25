@@ -33,9 +33,7 @@ Kernel:
 
 GAN:
 
-- use you own dataset: 
-- tf1: https://www.leiphone.com/category/ai/yZvIqK8VbxoYejLl.html
-- pytorch: https://github.com/pytorch/examples/tree/main/dcgan
+https://github.com/TianjieZhang1993/GAN
 
 集成学习：
 
