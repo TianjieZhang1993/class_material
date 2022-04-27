@@ -8,6 +8,8 @@ course website: https://cs533.ekstrandom.net/f21/
 
 PCA: https://zhuanlan.zhihu.com/p/77151308
 
+- SVD：https://blog.csdn.net/lomodays207/article/details/88687126
+
 Linear regression < 线性回归 > : https://zhuanlan.zhihu.com/p/72513104
 
 Logistic regression < 逻辑回归 > + Regularzation < 正则化 >: 
@@ -24,9 +26,18 @@ K-fold cross validation:
 - Scikit-learn: https://scikit-learn.org/stable/modules/cross_validation.html#k-fold
 
 SVM：
-- https://blog.csdn.net/lomodays207/article/details/88687126
+
 - 对scikit-learn的中文解析： https://www.cnblogs.com/wj-1314/p/9436710.html
 
 Kernel: 
 
 - conception: https://blog.csdn.net/qq_39521554/article/details/80605178
+
+GAN:
+
+https://github.com/TianjieZhang1993/GAN
+
+集成学习：
+
+Adaboost: 
+原理+scikitlearn例子：https://www.cnblogs.com/jpcflyer/p/11268859.html
