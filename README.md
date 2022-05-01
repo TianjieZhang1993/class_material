@@ -53,3 +53,5 @@ https://github.com/TianjieZhang1993/GAN
 
 - 高斯混合模型：https://zhuanlan.zhihu.com/p/30483076   ;   https://zhuanlan.zhihu.com/p/81255623
   - EM算法：https://zhuanlan.zhihu.com/p/36331115
+
+- 层次聚类： https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/
