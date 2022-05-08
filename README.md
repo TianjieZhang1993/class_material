@@ -39,5 +39,19 @@ https://github.com/TianjieZhang1993/GAN
 
 集成学习：
 
-Adaboost: 
-原理+scikitlearn例子：https://www.cnblogs.com/jpcflyer/p/11268859.html
+- Adaboost: 
+
+  - 原理+scikitlearn例子：https://www.cnblogs.com/jpcflyer/p/11268859.html
+  - code实现： https://towardsdatascience.com/adaboost-from-scratch-37a936da3d50
+
+
+
+聚类算法：
+
+- DBScan 原理：https://blog.csdn.net/weixin_41690708/article/details/95480399
+
+
+- 高斯混合模型：https://zhuanlan.zhihu.com/p/30483076   ;   https://zhuanlan.zhihu.com/p/81255623
+  - EM算法：https://zhuanlan.zhihu.com/p/36331115
+
+- 层次聚类： https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/
