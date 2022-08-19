@@ -59,3 +59,8 @@ https://github.com/TianjieZhang1993/GAN
 Pytorch:
 
 
+刷题实录：
+
+clf = stackingclassifier(estimators=, final_estimator=); clf.fit(),clf.predict()
+
+plot('ro--')
