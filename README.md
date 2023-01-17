@@ -64,3 +64,6 @@ Pytorch:
 clf = stackingclassifier(estimators=, final_estimator=); clf.fit(),clf.predict()
 
 plot('ro--')
+
+Google cloud gpu: 
+https://blog.csdn.net/kuziti2786/article/details/105325017
